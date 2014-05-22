@@ -38,7 +38,7 @@ For obtaining such information the next steps were followed
 Notes and clarifications
 ===============================
 * The information here will include at least 2 degrees of freedom, as it is an average of either averages or standard deviations.
-* The file with the program is included in the github repository  for replication  _____  .
+* The file with the program is included in the github repository  for replication  https://github.com/AnaCG/GCDPeerReviewAssignment  .
 * Thank you for your time.
 
 References:
